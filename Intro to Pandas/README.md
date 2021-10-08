@@ -12,4 +12,4 @@ By the end of this project, you will become familiar with pandas, most important
 
 [Link to Pandas Documentation (PDF)](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
 
-[Link to Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+[Link to the Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
