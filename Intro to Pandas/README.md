@@ -7,7 +7,7 @@
 [Link to the Notebook](https://colab.research.google.com/drive/1BAJvL0KLAMw976RKi9qZ7ak8-9sv7Vft?usp=sharing)
 
 ## Source of Data
-1. A Loan default dataset gotten from Kaggle
+1. A Loan default dataset gotten from [Kaggle](https://www.kaggle.com/kmldas/loan-default-prediction)
 2. A Student dataset formulated by Sandra Oriji
 
 ## Expectation
