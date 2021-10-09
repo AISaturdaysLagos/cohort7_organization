@@ -1,8 +1,13 @@
 
 # Introduction to Pandas
-## Access to live presentation slide
+## Access to the live presentation slide and notebook
 
-[Link to Slide](https://docs.google.com/presentation/d/1sFl4uJkbGuYrkPwy88t3WQrEHKTqikJNptMk2wprTXM/edit?usp=sharing)
+[Link to the Slides](https://docs.google.com/presentation/d/1sFl4uJkbGuYrkPwy88t3WQrEHKTqikJNptMk2wprTXM/edit?usp=sharing)
+[Link to the Notebook](https://colab.research.google.com/drive/1BAJvL0KLAMw976RKi9qZ7ak8-9sv7Vft?usp=sharing)
+
+## Source of Data
+1. A Loan default dataset gotten from Kaggle
+2. A Student dataset formulated by Sandra Oriji
 
 ## Expectation
 
