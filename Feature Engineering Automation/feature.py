@@ -1,8 +1,9 @@
+# Ref: https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
 import numpy as np
 import pandas as pd
 from feature_engine import discretisation as dsc
 from feature_engine import encoding as ce
-from feature_engine import outlier as outr
+from feature_engine import outliers as outr
 from feature_engine import transformation as vt
 from feature_engine.imputation import MeanMedianImputer
 from sklearn.model_selection import train_test_split
@@ -119,7 +120,7 @@ def outlier():
 
     # set up the capper
     capper = outr.Winsorizer(
-        distribution="gaussian", tail="right", fold=3, variables=["age", "fare"]
+        capping_method="gaussian", tail="right", fold=3, variables=["age", "fare"]
     )
 
     # fit the capper
